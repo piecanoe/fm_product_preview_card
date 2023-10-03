@@ -1,0 +1,61 @@
+html{
+    width: 1440px;
+}
+
+body{
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+}
+
+#box{
+    width: 600px;
+    height: 450px;
+    display: flex;
+    flex-direction: row;
+}
+
+/* LEFT PANEL */
+#box #img {
+    width: 50%;
+}
+
+span{
+    text-transform: uppercase;
+}
+
+img{
+    height: 450px;
+}
+
+/* RIGHT PANEL */
+#box #info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+section #price{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+}
+
+h1{
+    color: black;
+    font-size: 2rem;
+}
+
+h2{
+    color: hsl(158, 36%, 37%);
+    font-size: 1.5rem;
+    margin-right: 15px;
+}
+
+button{
+    height: 40px;
+    background: hsl(158, 36%, 37%);
+    color: white;
+    border: none;
+}
