@@ -14,7 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./solution.png)
+![](./solution/solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/piecanoe/fm_product_preview_card.git)
-- Live Site URL: [Add live site URL here](https://fm-product-preview-card-kd.netlify.app/)
+- Solution URL: [https://github.com/piecanoe/fm_product_preview_card.git](https://github.com/piecanoe/fm_product_preview_card.git)
+- Live Site URL: [https://fm-product-preview-card-kd.netlify.app/](https://fm-product-preview-card-kd.netlify.app/)
 
 ## My process
 
@@ -83,7 +82,7 @@ This was one step further into learning how to build responsive websites. I'm ge
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Best flexbox cheat sheet online
+- [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Best flexbox cheat sheet online
 Stack Overflow Thread on Centering Divs - After painstakingly searching for solutions for hours, this was the solution that worked for me.
 
 ## Author
@@ -91,11 +90,3 @@ Stack Overflow Thread on Centering Divs - After painstakingly searching for solu
 - Website - [Karen Du](https://karendu.netlify.app/)
 - GitHub - [@piecanoe](@piecanoe)
 - Frontend Mentor - [@piecanoe](https://www.frontendmentor.io/profile/piecanoe)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
